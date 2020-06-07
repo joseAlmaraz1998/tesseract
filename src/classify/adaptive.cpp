@@ -42,6 +42,14 @@ using tesseract::TFile;
  *
  * @note Globals: none
  */
+
+/**
+* change files
+*/
+
+/**
+* end change files
+*/
 void AddAdaptedClass(ADAPT_TEMPLATES Templates,
                      ADAPT_CLASS Class,
                      CLASS_ID ClassId) {
